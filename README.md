@@ -5,6 +5,10 @@
 A retro-inspired command-line ToDo application with green terminal vibes, typing effects, and hacker-style energy. Designed to make your daily task list feel like a cyberpunk mission.
 
 ---
+## 📸 Demo Screenshot
+
+![Hacker ToDo Demo]({66EBBAD6-E8DE-485B-8691-83EF90BF1E42}.png)
+
 
 ## 🚀 Features
 
